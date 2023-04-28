@@ -1,6 +1,6 @@
 # Hola! Mi nombre es Guille
 
-[Imagen de portada de Git](https://raw.githubusercontent.com/guilleperalta/guilleperalta/main/portada%20web%20developer%20git.png)
+![Imagen de portada de Git](https://raw.githubusercontent.com/guilleperalta/guilleperalta/main/portada%20web%20developer%20git.png)
 
 Git es un sistema de control de versiones distribuido de código abierto que se utiliza ampliamente en el desarrollo de software. Con Git, puedes realizar un seguimiento de los cambios en tus archivos y colaborar con otros desarrolladores de manera eficiente.
 
