@@ -29,7 +29,6 @@ ___
 - <img height="25" width="25" src="https://cdn.simpleicons.org/adobeillustrator" />  adobe illustrator
 - <img height="25" width="25" src="https://cdn.simpleicons.org/microsoftteams" />  microsoft teams
 - <img height="25" width="25" src="https://cdn.simpleicons.org/slack" />  slack
-- <img height="25" width="25" src="https://cdn.simpleicons.org/slack" />  slack
 - Dbeaver
 
 
