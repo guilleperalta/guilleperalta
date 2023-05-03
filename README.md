@@ -12,11 +12,12 @@ ___
 - <img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap" />  bootstrap
 - <img height="25" width="25" src="https://cdn.simpleicons.org/jquery" />  jquery
 - <img height="25" width="25" src="https://cdn.simpleicons.org/javascript" />  javascript
+- <img height="25" width="25" src="https://cdn.simpleicons.org/react" />  react
 - Smarty
 
 ## Back
 - <img height="25" width="25" src="https://cdn.simpleicons.org/php" />  php
-- <img height="25" width="25" src="https://cdn.simpleicons.org/mysql" />  mysql
+- <img height="25" width="25" src="https://cdn.simpleicons.org/nodedotjs" />  node
 - SQL
 
 ## Soft y Herramientas
@@ -30,11 +31,6 @@ ___
 - <img height="25" width="25" src="https://cdn.simpleicons.org/microsoftteams" />  microsoft teams
 - <img height="25" width="25" src="https://cdn.simpleicons.org/slack" />  slack
 - Dbeaver
-
-
-## En curso
-- <img height="25" width="25" src="https://cdn.simpleicons.org/react" />  react
-- <img height="25" width="25" src="https://cdn.simpleicons.org/nodedotjs" />  node
 
 ## Plataformas ecommerce
 - <img height="25" width="25" src="https://cdn.simpleicons.org/prestashop" />  prestashop
