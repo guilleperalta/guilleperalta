@@ -12,7 +12,8 @@ ___
 - <img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap" />  bootstrap
 - <img height="25" width="25" src="https://cdn.simpleicons.org/jquery" />  jquery
 - <img height="25" width="25" src="https://cdn.simpleicons.org/javascript" />  javascript
-- <img height="25" width="25" src="https://cdn.simpleicons.org/react" />  react
+- <img height="25" width="25" src="https://cdn.simpleicons.org/react" />  react.js
+- <img height="25" width="25" src="https://cdn.simpleicons.org/vuedotjs" />  vue.js
 - Smarty
 
 ## Back
