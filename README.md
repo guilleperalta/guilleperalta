@@ -37,7 +37,7 @@ ___
 - <img height="25" width="25" src="https://cdn.simpleicons.org/prestashop" />  prestashop
 - <img height="25" width="25" src="https://cdn.simpleicons.org/wordpress" />  wordpress
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,php,sql,react,node,laravel,prestashop,vscode,git,github,docker,tailwind)](https://skillicons.dev)
 ___
  
 Me apasiona aprender y actualizarme constantemente en las últimas tecnologías y tendencias en el mundo del desarrollo web.
