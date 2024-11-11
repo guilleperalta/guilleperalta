@@ -4,40 +4,56 @@
 
 ___
 
-# Lenguajes y tecnologías con las que trabajo actualmente:
+## Skills & Tools
 
-## Front
-- <img height="25" width="25" src="https://cdn.simpleicons.org/css3" />  css3
-- <img height="25" width="25" src="https://cdn.simpleicons.org/html5" />  html5
-- <img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap" />  bootstrap
-- <img height="25" width="25" src="https://cdn.simpleicons.org/jquery" />  jquery
-- <img height="25" width="25" src="https://cdn.simpleicons.org/javascript" />  javascript
-- <img height="25" width="25" src="https://cdn.simpleicons.org/react" />  react.js
-- <img height="25" width="25" src="https://cdn.simpleicons.org/vuedotjs" />  vue.js
-- Smarty
+### Lenguajes de Programación
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Swift](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
 
-## Back
-- <img height="25" width="25" src="https://cdn.simpleicons.org/php" />  php
-- <img height="25" width="25" src="https://cdn.simpleicons.org/nodedotjs" />  node
-- SQL
+### Frameworks y Librerías
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[![jQuery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Material UI](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 
-## Soft y Herramientas
-- <img height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode" />  visual studio code
-- <img height="25" width="25" src="https://cdn.simpleicons.org/git" />  git
-- <img height="25" width="25" src="https://cdn.simpleicons.org/github" />  github
-- <img height="25" width="25" src="https://cdn.simpleicons.org/filezilla" />  filezilla
-- <img height="25" width="25" src="https://cdn.simpleicons.org/adobexd" />  adobe xd
-- <img height="25" width="25" src="https://cdn.simpleicons.org/adobephotoshop" />  adobe photoshop
-- <img height="25" width="25" src="https://cdn.simpleicons.org/adobeillustrator" />  adobe illustrator
-- <img height="25" width="25" src="https://cdn.simpleicons.org/microsoftteams" />  microsoft teams
-- <img height="25" width="25" src="https://cdn.simpleicons.org/slack" />  slack
-- Dbeaver
+### Bases de Datos
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![Sequelize](https://skillicons.dev/icons?i=sequelize)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
-## Plataformas ecommerce
-- <img height="25" width="25" src="https://cdn.simpleicons.org/prestashop" />  prestashop
-- <img height="25" width="25" src="https://cdn.simpleicons.org/wordpress" />  wordpress
+### Herramientas y Plataformas
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,php,sql,react,node,laravel,prestashop,vscode,git,github,docker,tailwind)](https://skillicons.dev)
+### Entornos de Desarrollo y Sistemas Operativos
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Sublime Text](https://skillicons.dev/icons?i=sublime)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![MacOS](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+
+### Otras Habilidades
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![Powershell](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
+[![Regex](https://skillicons.dev/icons?i=regex)](https://skillicons.dev)
 ___
  
 Me apasiona aprender y actualizarme constantemente en las últimas tecnologías y tendencias en el mundo del desarrollo web.
@@ -52,8 +68,9 @@ ___
 
 ## ¿Hablamos?☕️
 
-<a style="margin-left:20px" href="https://www.instagram.com/guillee.peraltaa/" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a>
-<a style="margin-left:20px" href="https://www.linkedin.com/in/guillermo-peralta-25ab2b195/" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /></a>
-<a style="margin-left:20px" href="https://www.facebook.com/guille.peralta.35" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/facebook/#1877F2" /></a>
+(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+<a style="margin-left:20px" href="https://www.instagram.com/guillee.peraltaa/" target="blank">(https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
+<a style="margin-left:20px" href="https://www.linkedin.com/in/guillermo-peralta-25ab2b195/" target="blank">(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
 <a style="margin-left:20px" href="https://wa.me/543517424455?text=Hola,%20te%20escribo%20desde%20git." target="blank"><img src="https://cdn.simpleicons.org/whatsapp/#25D366" alt="Guille Peralta" height="32" width="32" /></a>
 <a style="margin-left:20px" href="mailto:guille.peralta.dev@gmail.com" target="blank"><img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="Guille Peralta" height="32" width="32" /></a>
