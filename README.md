@@ -1,6 +1,6 @@
 # ¡Hola! Mi nombre es Guille, soy Semi Sr. Full-Stack Web Developer y Module Developer of Prestashop
 
-![Imagen de portada de Git](https://raw.githubusercontent.com/guilleperalta/guilleperalta/main/Imagen%20GITHUB.png)
+![Imagen de portada de Git](https://raw.githubusercontent.com/guilleperalta/guilleperalta/main/Imagen-GITHUB.png)
 
 ___
 
