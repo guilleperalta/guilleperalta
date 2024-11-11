@@ -68,7 +68,6 @@ ___
 
 ## ¿Hablamos?☕️
 
-<a style="margin-left:20px" href="https://www.instagram.com/guillee.peraltaa/" target="blank">[![Mis_redes](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
-<a style="margin-left:20px" href="https://www.linkedin.com/in/guillermo-peralta-25ab2b195/" target="blank">[![Mis_redes](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
-<a style="margin-left:20px" href="https://wa.me/543517424455?text=Hola,%20te%20escribo%20desde%20git." target="blank"><img src="https://cdn.simpleicons.org/whatsapp/#25D366" alt="Guille Peralta" height="32" width="32" /></a>
-<a style="margin-left:20px" href="mailto:guille.peralta.dev@gmail.com" target="blank">[![Mis_redes](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
+[![Mis_redes](https://skillicons.dev/icons?i=instagram)]([https://skillicons.dev](https://www.instagram.com/guillee.peraltaa/))
+[![Mis_redes](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/guillermo-peralta-25ab2b195/))
+[![Mis_redes](https://skillicons.dev/icons?i=gmail)](mailto:guille.peralta.dev@gmail.com)
