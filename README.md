@@ -71,3 +71,4 @@ ___
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/guillee.peraltaa/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillermo-peralta-25ab2b195/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:guille.peralta.dev@gmail.com)
+[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/543517424455)
