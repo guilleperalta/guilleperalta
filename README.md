@@ -68,6 +68,6 @@ ___
 
 ## ¿Hablamos?☕️
 
-[![Mis_redes](https://skillicons.dev/icons?i=instagram)]([https://www.instagram.com/guillee.peraltaa/])
-[![Mis_redes](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/guillermo-peralta-25ab2b195/])
-[![Mis_redes](https://skillicons.dev/icons?i=gmail)]([mailto:guille.peralta.dev@gmail.com])
+[![Mis_redes](https://skillicons.dev/icons?i=instagram)(https://www.instagram.com/guillee.peraltaa/)]
+[![Mis_redes](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/guillermo-peralta-25ab2b195/)]
+[![Mis_redes](https://skillicons.dev/icons?i=gmail)(mailto:guille.peralta.dev@gmail.com)]
