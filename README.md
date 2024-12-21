@@ -60,9 +60,7 @@ Me apasiona aprender y actualizarme constantemente en las últimas tecnologías 
 
 Tengo experiencia en el desarrollo de funcionalidades nuevas y a medida para la plataforma Prestashop, acompañado de esto, tambien desarrollo modulos, lo que me ha permitido adquirir una amplia experiencia en el diseño y desarrollo de soluciones web personalizadas para tiendas eCommerce.
 
-Actualmente me desempeño como responsable del área de Desarrollo web en Wuala, donde también brindo soporte a otras áreas internas de la empresa. Además, tuve la oportunidad de liderar equipos de soporte, lo que me ha permitido desarrollar habilidades de liderazgo y trabajo en equipo.
-
-Cuento ya con mas de 20 certificados de cursado en la plataforma UDEMY, donde tambien sumo un certificado de la UTN de Bs As.
+Cuento ya con mas de 30 certificados de cursado en la plataforma UDEMY, donde tambien sumo un certificado de la UTN de Bs As.
 
 ___
 
