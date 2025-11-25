@@ -12,12 +12,12 @@ Me especializo en **PrestaShop**, donde he desarrollado **17+ módulos personali
 🔧 Mi foco está en:  
 - **Integración de APIs REST** (pagos, inventarios, transportistas, usuarios, clientes, productos).  
 - **Arquitectura escalable para e-commerce** (mayoristas/minoristas).  
-- **Automatización de procesos** y soluciones a medida para negocios digitales.  
+- **Desarrollo de módulos y funcionalidades personalizadas** para tiendas online.  
 
 📚 Formación:  
 - Más de **30 certificados en Udemy**.  
 - Certificado de la **UTN Buenos Aires** en PHP & SQL.  
-- Siempre en constante actualización y aprendizaje de nuevas tecnologías.  
+- Podés ver más sobre mis proyectos y certificados en 👉 [guilleperalta.com](https://guilleperalta.com)
 
 ---
 
@@ -44,7 +44,7 @@ Me especializo en **PrestaShop**, donde he desarrollado **17+ módulos personali
 - 🔹 **17+ módulos personalizados en PrestaShop** (pagos, envíos, inventarios, clientes).  
 - 🔹 **Integraciones ERP ↔ E-commerce** para agencias en Argentina, Chile y España.  
 - 🔹 **Optimización de tiendas online** con foco en rendimiento y escalabilidad.  
-- 🔹 **Automatización de procesos** con Google Sheets, Excel y scripting.  
+- 🔹 **Desarrollo de soluciones web personalizadas** para e-commerce internacional.  
 
 ---
 
@@ -56,6 +56,8 @@ Me especializo en **PrestaShop**, donde he desarrollado **17+ módulos personali
   <a href="mailto:guille.peralta.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://wa.me/543517424455"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
 </p>
+
+📱 **WhatsApp directo:** +54 351 7424455  
 
 ---
 
