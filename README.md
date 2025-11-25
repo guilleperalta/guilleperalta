@@ -1,72 +1,58 @@
-# ¡Hola! Mi nombre es Guille, soy Semi Sr. Full-Stack Web Developer y Module Developer of Prestashop
+# 👋 ¡Hola! Soy Guille  
+**Full-Stack Web Developer | Especialista en E-commerce con PrestaShop | Integrador de APIs & ERP ↔ E-commerce**
 
 ![Imagen de portada de Git](https://raw.githubusercontent.com/guilleperalta/guilleperalta/main/Imagen-GITHUB.png)
 
-___
+---
 
-## Skills & Tools
+## 🚀 Sobre mí  
+Soy **Semi Sr. Full-Stack Developer** con más de **5 años de experiencia en proyectos de e-commerce**.  
+Me especializo en **PrestaShop**, donde he desarrollado **17+ módulos personalizados**, integraciones complejas con **sistemas ERP**, y optimizaciones de tiendas online para agencias y clientes internacionales.  
 
-### Lenguajes de Programación
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![Swift](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
+🔧 Mi foco está en:  
+- **Integración de APIs REST** (pagos, inventarios, transportistas, usuarios, clientes, productos).  
+- **Arquitectura escalable para e-commerce** (mayoristas/minoristas).  
+- **Automatización de procesos** y soluciones a medida para negocios digitales.  
 
-### Frameworks y Librerías
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
-[![jQuery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![Material UI](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-[![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+📚 Formación:  
+- Más de **30 certificados en Udemy**.  
+- Certificado de la **UTN Buenos Aires** en PHP & SQL.  
+- Siempre en constante actualización y aprendizaje de nuevas tecnologías.  
 
-### Bases de Datos
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![Sequelize](https://skillicons.dev/icons?i=sequelize)](https://skillicons.dev)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+---
 
-### Herramientas y Plataformas
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
-[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
-[![Vercel](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+## 🛠️ Skills & Tools  
 
-### Entornos de Desarrollo y Sistemas Operativos
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![Sublime Text](https://skillicons.dev/icons?i=sublime)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![MacOS](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
-[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+### 🔤 Lenguajes  
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![Swift](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
 
-### Otras Habilidades
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-[![Powershell](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
-[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
-[![Regex](https://skillicons.dev/icons?i=regex)](https://skillicons.dev)
-___
- 
-Me apasiona aprender y actualizarme constantemente en las últimas tecnologías y tendencias en el mundo del desarrollo web.
+### ⚛️ Frameworks & Librerías  
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) [![jQuery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) [![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 
-Tengo experiencia en el desarrollo de funcionalidades nuevas y a medida para la plataforma Prestashop, acompañado de esto, tambien desarrollo modulos, lo que me ha permitido adquirir una amplia experiencia en el diseño y desarrollo de soluciones web personalizadas para tiendas eCommerce.
+### 🗄️ Bases de Datos  
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
-Cuento ya con mas de 30 certificados de cursado en la plataforma UDEMY, donde tambien sumo un certificado de la UTN de Bs As.
+### 🛠️ Herramientas & Plataformas  
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) [![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
-___
+### 💻 Entornos & OS  
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![MacOS](https://skillicons.dev/icons?i=apple)](https://skillicons.dev) [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
-## ¿Hablamos?☕️
+---
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/guillee.peraltaa/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillermo-peralta-25ab2b195/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:guille.peralta.dev@gmail.com)
-[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/543517424455)
+## 📈 Experiencia destacada  
+- 🔹 **17+ módulos personalizados en PrestaShop** (pagos, envíos, inventarios, clientes).  
+- 🔹 **Integraciones ERP ↔ E-commerce** para agencias en Argentina, Chile y España.  
+- 🔹 **Optimización de tiendas online** con foco en rendimiento y escalabilidad.  
+- 🔹 **Automatización de procesos** con Google Sheets, Excel y scripting.  
+
+---
+
+## ☕ ¿Hablamos?  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/guillee.peraltaa/)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillermo-peralta-25ab2b195/)  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:guille.peralta.dev@gmail.com)  
+[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/543517424455)  
+
+---
+✨ *Siempre buscando nuevas formas de optimizar procesos y crear soluciones digitales que generen impacto.*
