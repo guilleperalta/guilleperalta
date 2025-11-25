@@ -27,7 +27,7 @@ Me especializo en **PrestaShop**, donde he desarrollado **17+ módulos personali
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![Swift](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
 
 ### ⚛️ Frameworks & Librerías  
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) [![jQuery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) [![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![React Native](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) [![jQuery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) [![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 
 ### 🗄️ Bases de Datos  
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
@@ -49,10 +49,14 @@ Me especializo en **PrestaShop**, donde he desarrollado **17+ módulos personali
 ---
 
 ## ☕ ¿Hablamos?  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/guillee.peraltaa/)  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillermo-peralta-25ab2b195/)  
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:guille.peralta.dev@gmail.com)  
-[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/543517424455)  
+
+<p align="center">
+  <a href="https://www.instagram.com/guillee.peraltaa/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/guillermo-peralta-25ab2b195/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:guille.peralta.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://wa.me/543517424455"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
+</p>
 
 ---
+
 ✨ *Siempre buscando nuevas formas de optimizar procesos y crear soluciones digitales que generen impacto.*
