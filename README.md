@@ -101,11 +101,12 @@ Me destaco por:
 ## 📌 Contacto  
 
 <p align="center">
-  <a href="https://www.instagram.com/guillee.peraltaa/"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-  <a href="https://www.linkedin.com/in/guille-peralta-dev"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="mailto:guille.peralta.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://wa.me/543517424455"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" style="fill:#25D366;" /></a>
-  <a href="https://guilleperalta.com"><img src="https://skillicons.dev/icons?i=devto" width="40" /></a>
+  <a href="https://www.instagram.com/guillee.peraltaa">📷 Instagram</a> │
+  <a href="https://www.linkedin.com/in/guille-peralta-dev">💼 LinkedIn</a> │
+  <a href="mailto:guille.peralta.dev@gmail.com">✉️ Gmail</a> │
+  <a href="https://wa.me/543517424455">📱 WhatsApp</a> │
+  <a href="https://guilleperalta.com">🌐 Web</a> │
+  <a href="https://guilleperalta.com/certificates">📜 Certificados</a>
 </p>
 
 ---
