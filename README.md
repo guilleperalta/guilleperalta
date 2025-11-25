@@ -1,12 +1,6 @@
 # 👋 ¡Hola! Soy Guillermo Peralta  
 **Full-Stack Web Developer | Especialista en E-commerce y PrestaShop | Integrador de APIs & ERP ↔ E-commerce**
 
-📍 Córdoba, Argentina  
-📧 guille.peralta.dev@gmail.com  
-📱 +54 9 351 742 4455  
-🌐 [guilleperalta.com](https://guilleperalta.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/guille-peralta-dev) | [Portfolio](https://guilleperalta.com)
-
 ![Imagen de portada de Git](https://raw.githubusercontent.com/guilleperalta/guilleperalta/main/Imagen-GITHUB.png)
 
 ---
@@ -112,6 +106,16 @@ Me destaco por:
   <a href="mailto:guille.peralta.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://wa.me/543517424455"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
 </p>
+
+---
+
+## 📌 Información de contacto  
+
+📍 Córdoba, Argentina  
+📧 guille.peralta.dev@gmail.com  
+📱 +54 9 351 742 4455  
+🌐 [guilleperalta.com](https://guilleperalta.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/guille-peralta-dev) | [Portfolio](https://guilleperalta.com)
 
 ---
 
