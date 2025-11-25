@@ -50,14 +50,12 @@ Me especializo en **PrestaShop**, donde he desarrollado **17+ módulos personali
 
 ## ☕ ¿Hablamos?  
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/guillee.peraltaa/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.linkedin.com/in/guillermo-peralta-25ab2b195/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:guille.peralta.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://wa.me/543517424455"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
 </p>
-
-📱 **WhatsApp directo:** +54 351 7424455  
 
 ---
 
